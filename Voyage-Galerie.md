@@ -1,58 +1,60 @@
 # 📸 JOURNAL PHOTO — MADÈRE & AÇORES
 
+---
+
 ## 🌿 SEMAINE 1 — MADÈRE
 
 ### 🗓️ 15 juillet — Arrivée & Ribeira Brava
-- <img src="https://source.unsplash.com/featured/1200x800/?ribeira+brava+madeira" alt="Le village de Ribeira Brava" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?miradouro+de+sao+sebastiao+madeira" alt="Miradouro de São Sebastião" width="700" />
+- ![Le village de Ribeira Brava](https://picsum.photos/seed/ribeira-brava/1200/800)
+- ![Miradouro de São Sebastião](https://picsum.photos/seed/miradouro-sebastiao/1200/800)
 
 ### 🗓️ 16 juillet — Bananes, Cascades & Plage de Calheta
-- <img src="https://source.unsplash.com/featured/1200x800/?cascata+dos+anjos+madeira" alt="Cascata dos Anjos" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?madalena+do+mar+banana+madeira" alt="Madalena do Mar (Bananes)" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?praia+da+calheta+madeira" alt="Plage de Calheta" width="700" />
+- ![Cascata dos Anjos](https://picsum.photos/seed/cascata-dos-anjos/1200/800)
+- ![Madalena do Mar (Bananes)](https://picsum.photos/seed/madalena-do-mar/1200/800)
+- ![Plage de Calheta](https://picsum.photos/seed/calheta/1200/800)
 
 ### 🗓️ 17 juillet — Le Grand Trek des Sommets
-- <img src="https://source.unsplash.com/featured/1200x800/?pico+do+arieiro+madeira" alt="Pico do Arieiro" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?pico+ruivo+trail+madeira" alt="Sentier vers le Pico Ruivo" width="700" />
+- ![Pico do Arieiro](https://picsum.photos/seed/pico-do-arieiro/1200/800)
+- ![Sentier vers le Pico Ruivo](https://picsum.photos/seed/pico-ruivo/1200/800)
 
 ### 🗓️ 18 juillet — L'Épopée du Nord-Ouest
-- <img src="https://source.unsplash.com/featured/1200x800/?fanal+forest+madeira" alt="Forêt mystique de Fanal" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?porto+moniz+natural+pools+madeira" alt="Piscines de Porto Moniz" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?praia+do+seixal+madeira" alt="Plage de Seixal" width="700" />
+- ![Forêt mystique de Fanal](https://picsum.photos/seed/fanal/1200/800)
+- ![Piscines de Porto Moniz](https://picsum.photos/seed/porto-moniz/1200/800)
+- ![Plage de Seixal](https://picsum.photos/seed/seixal/1200/800)
 
 ### 🗓️ 19 juillet — Canyoning & Câmara de Lobos
-- <img src="https://source.unsplash.com/featured/1200x800/?camara+de+lobos+madeira" alt="Câmara de Lobos" width="700" />
+- ![Câmara de Lobos](https://picsum.photos/seed/camara-de-lobos/1200/800)
 
 ### 🗓️ 20 juillet — Funchal : Marché & Sensations
-- <img src="https://source.unsplash.com/featured/1200x800/?mercado+dos+lavradores+funchal+madeira" alt="Mercado dos Lavradores" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?carreiros+do+monte+madeira" alt="Carreiros do Monte" width="700" />
+- ![Mercado dos Lavradores](https://picsum.photos/seed/mercado-dos-lavradores/1200/800)
+- ![Carreiros do Monte](https://picsum.photos/seed/carreiros-do-monte/1200/800)
 
 ### 🗓️ 21 juillet — Journée Grands Espaces
-- <img src="https://source.unsplash.com/featured/1200x800/?ponta+de+sao+lourenco+madeira" alt="Ponta de São Lourenço" width="700" />
+- ![Ponta de São Lourenço](https://picsum.photos/seed/ponta-de-sao-lourenco/1200/800)
 
 ---
 
 ## 🌊 SEMAINE 2 — SÃO MIGUEL (AÇORES)
 
 ### 🗓️ 22 juillet — Arrivée & Surf à Santa Barbara
-- <img src="https://source.unsplash.com/featured/1200x800/?santa+barbara+beach+azores" alt="Santa Barbara Beach" width="700" />
+- ![Santa Barbara Beach](https://picsum.photos/seed/santa-barbara-beach/1200/800)
 
 ### 🗓️ 23 juillet — Le Cratère Majeur de Sete Cidades
-- <img src="https://source.unsplash.com/featured/1200x800/?boca+do+inferno+azores" alt="Miradouro Boca do Inferno" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?vista+do+rei+sete+cidades+azores" alt="Vista do Rei (Sete Cidades)" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?ponta+da+ferraria+azores" alt="Thermes de Ponta da Ferraria" width="700" />
+- ![Miradouro Boca do Inferno](https://picsum.photos/seed/boca-do-inferno/1200/800)
+- ![Vista do Rei (Sete Cidades)](https://picsum.photos/seed/vista-do-rei/1200/800)
+- ![Thermes de Ponta da Ferraria](https://picsum.photos/seed/ponta-da-ferraria/1200/800)
 
 ### 🗓️ 24 juillet — Jungle, Bassins Chauds & Surf
-- <img src="https://source.unsplash.com/featured/1200x800/?salto+do+cabrito+azores" alt="Cascade Salto do Cabrito" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?caldeira+velha+azores" alt="Caldeira Velha" width="700" />
+- ![Cascade Salto do Cabrito](https://picsum.photos/seed/salto-do-cabrito/1200/800)
+- ![Caldeira Velha](https://picsum.photos/seed/caldeira-velha/1200/800)
 
 ### 🗓️ 25 juillet — Le Spectacle Géothermique de Furnas
-- <img src="https://source.unsplash.com/featured/1200x800/?caldeiras+das+furnas+azores" alt="Caldeiras de Furnas" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?terra+nostra+park+azores" alt="Parc Terra Nostra" width="700" />
+- ![Caldeiras de Furnas](https://picsum.photos/seed/caldeiras-de-furnas/1200/800)
+- ![Parc Terra Nostra](https://picsum.photos/seed/terra-nostra/1200/800)
 
 ### 🗓️ 26 juillet — Lagoa do Fogo
-- <img src="https://source.unsplash.com/featured/1200x800/?lagoa+do+fogo+azores" alt="Lagoa do Fogo" width="700" />
+- ![Lagoa do Fogo](https://picsum.photos/seed/lagoa-do-fogo/1200/800)
 
 ### 🗓️ 27 juillet — Les Lignes de Thé & Dernier Plongeon
-- <img src="https://source.unsplash.com/featured/1200x800/?gorreana+tea+plantation+azores" alt="Thé Gorreana" width="700" />
-- <img src="https://source.unsplash.com/featured/1200x800/?caloura+azores" alt="Piscines de Caloura" width="700" />
+- ![Thé Gorreana](https://picsum.photos/seed/gorreana/1200/800)
+- ![Piscines de Caloura](https://picsum.photos/seed/caloura/1200/800)
