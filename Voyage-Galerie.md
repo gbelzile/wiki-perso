@@ -1,4 +1,4 @@
-# 📸 JOURNAL PHOTO DYNAMIQUE — MADÈRE & AÇORES
+# 📸 JOURNAL PHOTO BIEN AVANT LE DÉPART — MADÈRE & AÇORES
 
 ---
 
@@ -8,69 +8,53 @@
 
 ### 🗓️ 15 juillet — Arrivée & Ribeira Brava
 *   **Le village de Ribeira Brava :**
-    ![Ribeira Brava](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Ribeira+Brava+Madeira&fov=90&heading=230&pitch=10)
-*   **Vue du Miradouro de São Sebastião :**
-    ![Miradouro de Sao Sebastiao](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Miradouro+de+Sao+Sebastiao+Ribeira+Brava&fov=90)
-*   **Front de mer de l'Airbnb :**
-    ![Ribeira Brava Beach](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Praia+da+Ribeira+Brava&fov=90)
+    ![Ribeira Brava](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ribeira_Brava_RF.jpg/800px-Ribeira_Brava_RF.jpg)
+*   **Vue sur le littoral de Madère :**
+    ![Littoral Madère](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Madeira_Ribeira_Brava_coastal_view.jpg/800px-Madeira_Ribeira_Brava_coastal_view.jpg)
 
 <br>
 
 ### 🗓️ 16 juillet — Bananes, Cascades & Plage de Calheta
-*   **La route sous la Cascata dos Anjos :**
-    ![Cascata dos Anjos](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Cascata+dos+Anjos+Madeira&fov=70&pitch=20)
-*   **Plantations de bananes à Madalena do Mar :**
-    ![Madalena do Mar](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Madalena+do+Mar+Banana+Rotas&fov=90)
+*   **La route de la Cascata dos Anjos :**
+    ![Cascata dos Anjos](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cascata_dos_Anjos_Madeira.jpg/533px-Cascata_dos_Anjos_Madeira.jpg)
 *   **Le sable doré de la Plage de Calheta :**
-    ![Praia da Calheta](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Praia+da+Calheta+Madeira&fov=90)
+    ![Praia da Calheta](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Praia_da_Calheta_Madeira.jpg/800px-Praia_da_Calheta_Madeira.jpg)
 
 <br>
 
 ### 🗓️ 17 juillet — Le Grand Trek des Sommets (Pico do Arieiro ➔ Pico Ruivo)
-*   **Le départ au Pico do Arieiro :**
-    ![Pico do Arieiro](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Pico+do+Arieiro+Madeira&fov=90&pitch=10)
-*   **Les crêtes volcaniques du sentier :**
-    ![Miradouro do Pico Ruivo](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Pico+Ruivo+Madeira&fov=90)
-*   **Le resto de montagne Abrigo do Pastor :**
-    ![Abrigo do Pastor](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Abrigo+do+Pastor+Camacha&fov=90)
+*   **Les crêtes du Pico do Arieiro :**
+    ![Pico do Arieiro](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Pico_do_Arieiro_Madeira_October_2017.jpg/800px-Pico_do_Arieiro_Madeira_October_2017.jpg)
+*   **Le sentier escarpé vers le Pico Ruivo :**
+    ![Sentier Ruivo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Madeira_Pico_Ruivo_trail_landscape.jpg/800px-Madeira_Pico_Ruivo_trail_landscape.jpg)
 
 <br>
 
 ### 🗓️ 18 juillet — L'Épopée du Nord-Ouest (Fanal & Seixal)
-*   **La cascade Véu da Noiva :**
-    ![Veu da Noiva](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Veu+da+Noiva+Madeira&fov=80)
-*   **La plage de sable noir de Seixal :**
-    ![Praia do Porto do Seixal](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Praia+do+Seixal&fov=90)
-*   **Les piscines de lave de Porto Moniz :**
-    ![Piscinas Naturais de Porto Moniz](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Porto+Moniz+Piscinas+Naturais&fov=90)
-*   **Les arbres centenaires de la forêt de Fanal :**
-    ![Fanal Forest](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Posto+Florestal+do+Fanal&fov=90)
+*   **Les arbres centenaires et brumeux de Fanal :**
+    ![Fanal Forest](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fanal_Madeira_October_2019.jpg/800px-Fanal_Madeira_October_2019.jpg)
+*   **Les piscines volcaniques de Porto Moniz :**
+    ![Piscinas Naturais de Porto Moniz](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Porto_Moniz_Lava_Pools.jpg/800px-Porto_Moniz_Lava_Pools.jpg)
 
 <br>
 
 ### 🗓️ 19 juillet — Canyoning & Câmara de Lobos
-*   **Les gorges de Ribeira de Cales (Canyoning) :**
-    ![Ribeira de Cales](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Chao+da+Lagoa+Madeira&fov=90)
-*   **La baie des pêcheurs de Câmara de Lobos :**
-    ![Camara de Lobos](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Camara+de+Lobos+Porto&fov=90)
+*   **Le port pittoresque de Câmara de Lobos :**
+    ![Camara de Lobos](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Camara_de_Lobos_Madeira_June_2014.jpg/800px-Camara_de_Lobos_Madeira_June_2014.jpg)
 
 <br>
 
 ### 🗓️ 20 juillet — Funchal historique & Monte
 *   **Le Mercado dos Lavradores (Marché) :**
-    ![Mercado dos Lavradores](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Mercado+dos+Lavradores+Funchal&fov=90)
-*   **Le départ du Téléphérique de Funchal :**
-    ![Teleferico do Funchal](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Teleferico+Funchal+Station&fov=90)
-*   **L'arrivée des paniers d'osier (Carreiros do Monte) :**
-    ![Carreiros do Monte](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Carreiros+do+Monte+Livramento&fov=90)
+    ![Mercado dos Lavradores](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Mercado_dos_Lavradores_Funchal_2011.jpg/800px-Mercado_dos_Lavradores_Funchal_2011.jpg)
+*   **Les Carreiros do Monte (Paniers d'osier) :**
+    ![Carreiros do Monte](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Carreiros_do_Monte_Madeira.jpg/800px-Carreiros_do_Monte_Madeira.jpg)
 
 <br>
 
 ### 🗓️ 21 juillet — Ponta de São Lourenço
-*   **Les falaises de la péninsule Est :**
-    ![Ponta de Sao Lourenco](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Ponta+de+Sao+Lourenco&fov=90)
-*   **La baie de galets et de sable de Machico :**
-    ![Praia de Machico](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Praia+de+Machico&fov=90)
+*   **Les falaises volcaniques de la péninsule Est :**
+    ![Ponta de Sao Lourenco](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ponta_de_S%C3%A3o_Louren%C3%A7o_Madeira_August_2019.jpg/800px-Ponta_de_S%C3%A3o_Louren%C3%A7o_Madeira_August_2019.jpg)
 
 ---
 
@@ -79,49 +63,43 @@
 <br>
 
 ### 🗓️ 22 juillet — Arrivée & Surf à Santa Barbara
-*   **Le village de Rabo de Peixe (Base) :**
-    ![Rabo de Peixe](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Rabo+de+Peixe+Azores&fov=90)
-*   **Le spot de Surf de Santa Barbara Beach :**
-    ![Praia de Santa Barbara](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Praia+de+Santa+Barbara+Ribeira+Grande&fov=90)
+*   **La grande plage de surf de Santa Barbara :**
+    ![Praia de Santa Barbara](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Praia_de_Santa_B%C3%A1rbara_Ribeira_Grande_A%C3%A7ores.jpg/800px-Praia_de_Santa_B%C3%A1rbara_Ribeira_Grande_A%C3%A7ores.jpg)
 
 <br>
 
 ### 🗓️ 23 juillet — Cratère géant de Sete Cidades
-*   **Le belvédère Boca do Inferno :**
-    ![Boca do Inferno](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Miradouro+da+Boca+do+Inferno&fov=90)
-*   **La vue depuis Vista do Rei :**
-    ![Vista do Rei](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Miradouro+da+Vista+do+Rei&fov=90)
-*   **Les sources chaudes de Ponta da Ferraria :**
-    ![Ponta da Ferraria](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Ponta+da+Ferraria+Azores&fov=90&pitch=10)
+*   **Les deux lacs de Sete Cidades (Vert et Bleu) :**
+    ![Sete Cidades](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sete_Cidades_Lagoa_Azul_e_Verde_Acores.jpg/800px-Sete_Cidades_Lagoa_Azul_e_Verde_Acores.jpg)
+*   **Les sources thermales en bord de mer à Ferraria :**
+    ![Ponta da Ferraria](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ponta_da_Ferraria_Azores_Coastline.jpg/800px-Ponta_da_Ferraria_Azores_Coastline.jpg)
 
 <br>
 
 ### 🗓️ 24 juillet — Cascades et Jungle Thermale
-*   **La cascade du Salto do Cabrito :**
-    ![Salto do Cabrito](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Cascata+do+Salto+do+Cabrito&fov=80)
-*   **Les bassins de Caldeira Velha :**
-    ![Caldeira Velha](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Caldeira+Velha+Azores&fov=90)
+*   **La cascade cachée du Salto do Cabrito :**
+    ![Salto do Cabrito](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cascata_do_Salto_do_Cabrito_Ribeira_Grande.jpg/533px-Cascata_do_Salto_do_Cabrito_Ribeira_Grande.jpg)
+*   **Les bassins chauds de Caldeira Velha :**
+    ![Caldeira Velha](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Caldeira_Velha_Thermal_Pool_Azores.jpg/800px-Caldeira_Velha_Thermal_Pool_Azores.jpg)
 
 <br>
 
 ### 🗓️ 25 juillet — Géothermie à Furnas
-*   **Les fumerolles du village de Furnas :**
-    ![Caldeiras das Furnas](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Caldeiras+das+Furnas&fov=90)
-*   **La piscine thermale jaune du Parc Terra Nostra :**
-    ![Parque Terra Nostra](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Parque+Terra+Nostra+Furnas&fov=90)
+*   **Les caldeiras et fumerolles de Furnas :**
+    ![Caldeiras das Furnas](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fumarolas_Furnas_San_Miguel_Acores.jpg/800px-Fumarolas_Furnas_San_Miguel_Acores.jpg)
+*   **La grande piscine d'eau ferrugineuse de Terra Nostra :**
+    ![Parque Terra Nostra](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Terra_Nostra_Park_Thermal_Pool.jpg/800px-Terra_Nostra_Park_Thermal_Pool.jpg)
 
 <br>
 
-### 🗓️ 26 juillet — Lagoa do Fogo & Marina
-*   **Le point de vue sur le Lagoa do Fogo :**
-    ![Lagoa do Fogo](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Miradouro+da+Lagoa+do+Fogo&fov=90)
-*   **La Marina de Ponta Delgada (Départ des baleines) :**
-    ![Marina Ponta Delgada](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Marina+Ponta+Delgada&fov=90)
+### 🗓️ 26 juillet — Lagoa do Fogo
+*   **Le cratère sauvage du Lagoa do Fogo :**
+    ![Lagoa do Fogo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lagoa_do_Fogo_Azores_July_2011.jpg/800px-Lagoa_do_Fogo_Azores_July_2011.jpg)
 
 <br>
 
 ### 🗓️ 27 juillet — Thé Gorreana & Caloura
-*   **Les lignes de thé de la Plantation Gorreana :**
-    ![Chas Gorreana](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Chas+Gorreana+Azores&fov=90)
-*   **Le port et les piscines de Caloura :**
-    ![Caloura](https://maps.googleapis.com/maps/api/streetview?size=800x400&location=Porto+da+Caloura&fov=90)
+*   **Les plantations de thé Gorreana face à l'océan :**
+    ![Chas Gorreana](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gorreana_Tea_Plantation_Azores.jpg/800px-Gorreana_Tea_Plantation_Azores.jpg)
+*   **L'anse de Caloura :**
+    ![Caloura](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Porto_da_Caloura_Lagoa_A%C3%A7ores.jpg/800px-Porto_da_Caloura_Lagoa_A%C3%A7ores.jpg)
