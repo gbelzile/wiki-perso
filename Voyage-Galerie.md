@@ -1,86 +1,60 @@
-# 📸 JOURNAL PHOTO (LIENS DE RECHERCHE) — MADÈRE & AÇORES
+# 📸 JOURNAL PHOTO — MADÈRE & AÇORES
 
 ---
 
 ## 🌿 SEMAINE 1 — MADÈRE
 
-<br>
-
 ### 🗓️ 15 juillet — Arrivée & Ribeira Brava
-* [🔍 Voir les photos de : Le village de Ribeira Brava](https://www.google.com/search?udm=2&q=Ribeira+Brava+Madeira)
-* [🔍 Voir les photos de : Miradouro de São Sebastião](https://www.google.com/search?udm=2&q=Miradouro+de+Sao+Sebastiao)
-
-<br>
+- ![Le village de Ribeira Brava](https://upload.wikimedia.org/wikipedia/commons/4/4f/2016._Ao_visconde_da_Ribeira_Brava._Madeira._Portugal_12.jpg)
+- ![Miradouro de São Sebastião](https://upload.wikimedia.org/wikipedia/commons/e/e9/Cliffside_villages_east_of_Ribeira_Brava_from_Miradouro_de_S%C3%A3o_Sebasti%C3%A3o%2C_Ribeira_Brava%2C_Madeira%2C_2023_May.jpg)
 
 ### 🗓️ 16 juillet — Bananes, Cascades & Plage de Calheta
-* [🔍 Voir les photos de : Cascata dos Anjos](https://www.google.com/search?udm=2&q=cascata+dos+anjos)
-* [🔍 Voir les photos de : Madalena do Mar (Bananes)](https://www.google.com/search?udm=2&q=Madalena+do+Mar+banana+plantation)
-* [🔍 Voir les photos de : Plage de Calheta](https://www.google.com/search?udm=2&q=Praia+da+Calheta+Madeira)
-
-<br>
+- ![Cascata dos Anjos](https://upload.wikimedia.org/wikipedia/commons/6/6e/2011-03-05_03-13_Madeira_314_Ponta_do_Sol.jpg)
+- ![Madalena do Mar (Bananes)](https://upload.wikimedia.org/wikipedia/commons/f/f5/0_Banana_route%29_Madalena_do_Mar_Madeira.jpg)
+- ![Plage de Calheta](https://upload.wikimedia.org/wikipedia/commons/f/f6/Madeira-Calheta-harbour-Hotel_Savoy-01ASD.jpg)
 
 ### 🗓️ 17 juillet — Le Grand Trek des Sommets
-* [🔍 Voir les photos de : Pico do Arieiro](https://www.google.com/search?udm=2&q=Pico+do+Arieiro)
-* [🔍 Voir les photos de : Sentier vers le Pico Ruivo](https://www.google.com/search?udm=2&q=Pico+Ruivo+trail)
-
-<br>
+- ![Pico do Arieiro](https://upload.wikimedia.org/wikipedia/commons/0/0e/2016._Pico_do_Areeiro._Madeira._Portugal_%2705.jpg)
+- ![Sentier vers le Pico Ruivo](https://upload.wikimedia.org/wikipedia/commons/a/ac/Madeira-Santana-Pico_Ruivo-hiking_trail_PR_1-2_%28bivouac_hut%29-03ASD.jpg)
 
 ### 🗓️ 18 juillet — L'Épopée du Nord-Ouest
-* [🔍 Voir les photos de : Forêt mystique de Fanal](https://www.google.com/search?udm=2&q=Fanal+Forest+Madeira)
-* [🔍 Voir les photos de : Piscines de Porto Moniz](https://www.google.com/search?udm=2&q=Porto+Moniz+natural+pools)
-* [🔍 Voir les photos de : Plage de Seixal](https://www.google.com/search?udm=2&q=Praia+do+Seixal)
-
-<br>
+- ![Forêt mystique de Fanal](https://upload.wikimedia.org/wikipedia/commons/b/bf/Fanal_%28Madeira%2C_Portugal%29%2C_Lorbeerwald_--_2025_--_1519.jpg)
+- ![Piscines de Porto Moniz](https://upload.wikimedia.org/wikipedia/commons/f/f0/Madeira_-_Porto_Moniz_-_01_-_Piscinas_naturales.jpg)
+- ![Plage de Seixal](https://upload.wikimedia.org/wikipedia/commons/3/3a/Barqueiro_voltando_para_o_mar_na_praia_da_laje.jpg)
 
 ### 🗓️ 19 juillet — Canyoning & Câmara de Lobos
-* [🔍 Voir les photos de : Câmara de Lobos](https://www.google.com/search?udm=2&q=Camara+de+Lobos)
-
-<br>
+- ![Câmara de Lobos](https://upload.wikimedia.org/wikipedia/commons/2/29/Bah%C3%ADa_de_C%C3%A1mara_de_Lobos%2C_Madeira%2C_Portugal%2C_2019-05-29%2C_DD_50.jpg)
 
 ### 🗓️ 20 juillet — Funchal : Marché & Sensations
-* [🔍 Voir les photos de : Mercado dos Lavradores](https://www.google.com/search?udm=2&q=Mercado+dos+Lavradores)
-* [🔍 Voir les photos de : Carreiros do Monte (Paniers d'osier)](https://www.google.com/search?udm=2&q=Carreiros+do+Monte)
-
-<br>
+- ![Mercado dos Lavradores](https://upload.wikimedia.org/wikipedia/commons/1/1c/Azulejo_Mercado_Municipal_Funchal.JPG)
+- ![Carreiros do Monte](https://upload.wikimedia.org/wikipedia/commons/b/bd/2016._Carros_de_cesto_do_Monte._Monte._Funchal._Madeira._Portugal.jpg)
 
 ### 🗓️ 21 juillet — Journée Grands Espaces
-* [🔍 Voir les photos de : Ponta de São Lourenço](https://www.google.com/search?udm=2&q=Ponta+de+Sao+Lourenco)
+- ![Ponta de São Lourenço](https://upload.wikimedia.org/wikipedia/commons/6/65/Cani%C3%A7al_%28Madeira%2C_Portugal%29%2C_Ponta_de_S%C3%A3o_Louren%C3%A7o_--_2025_--_1332.jpg)
 
 ---
 
 ## 🌊 SEMAINE 2 — SÃO MIGUEL (AÇORES)
 
-<br>
-
 ### 🗓️ 22 juillet — Arrivée & Surf à Santa Barbara
-* [🔍 Voir les photos de : Santa Barbara Beach](https://www.google.com/search?udm=2&q=Santa+Barbara+Beach+Azores)
-
-<br>
+- ![Santa Barbara Beach](https://upload.wikimedia.org/wikipedia/commons/a/ad/Santa_Barbara_Azores_%2823168395014%29.jpg)
 
 ### 🗓️ 23 juillet — Le Cratère Majeur de Sete Cidades
-* [🔍 Voir les photos de : Miradouro Boca do Inferno](https://www.google.com/search?udm=2&q=Boca+do+Inferno+Azores)
-* [🔍 Voir les photos de : Vista do Rei (Sete Cidades)](https://www.google.com/search?udm=2&q=Vista+do+Rei)
-* [🔍 Voir les photos de : Thermes de Ponta da Ferraria](https://www.google.com/search?udm=2&q=Ponta+da+Ferraria)
-
-<br>
+- ![Miradouro Boca do Inferno](https://upload.wikimedia.org/wikipedia/commons/3/3c/East_of_Cete_Sidades_-_panoramio.jpg)
+- ![Vista do Rei (Sete Cidades)](https://upload.wikimedia.org/wikipedia/commons/1/1d/2012-10-17_14-50-11_Portugal_Azores_Sete_Cidades.JPG)
+- ![Thermes de Ponta da Ferraria](https://upload.wikimedia.org/wikipedia/commons/6/6c/Bench_at_Ponta_da_Ferraria_Lighthouse%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg)
 
 ### 🗓️ 24 juillet — Jungle, Bassins Chauds & Surf
-* [🔍 Voir les photos de : Cascade Salto do Cabrito](https://www.google.com/search?udm=2&q=Salto+do+Cabrito)
-* [🔍 Voir les photos de : Caldeira Velha](https://www.google.com/search?udm=2&q=Caldeira+Velha)
-
-<br>
+- ![Cascade Salto do Cabrito](https://upload.wikimedia.org/wikipedia/commons/a/a9/-i---i-_%2851969965566%29.jpg)
+- ![Caldeira Velha](https://upload.wikimedia.org/wikipedia/commons/3/3a/Caldeira_Velha%2C_S%C3%A3o_Miguel_Island%2C_Azores_-_panoramio_%2810%29.jpg)
 
 ### 🗓️ 25 juillet — Le Spectacle Géothermique de Furnas
-* [🔍 Voir les photos de : Caldeiras de Furnas](https://www.google.com/search?udm=2&q=Caldeiras+das+Furnas)
-* [🔍 Voir les photos de : Parc Terra Nostra](https://www.google.com/search?udm=2&q=Terra+Nostra+Park+pool)
-
-<br>
+- ![Caldeiras de Furnas](https://upload.wikimedia.org/wikipedia/commons/a/af/Aerial_view_of_the_caldeiras_of_Lagoa_das_Furnas%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg)
+- ![Parc Terra Nostra](https://upload.wikimedia.org/wikipedia/commons/d/d3/20220519.Parque_Terra_Nostra.-034.3.jpg)
 
 ### 🗓️ 26 juillet — Lagoa do Fogo
-* [🔍 Voir les photos de : Lagoa do Fogo](https://www.google.com/search?udm=2&q=Lagoa+do+Fogo)
-
-<br>
+- ![Lagoa do Fogo](https://upload.wikimedia.org/wikipedia/commons/d/de/Aerial_view_of_Lagoa_do_Fogo%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL3-Altered%29-2.jpg)
 
 ### 🗓️ 27 juillet — Les Lignes de Thé & Dernier Plongeon
-* [🔍 Voir les photos de : Thé Gorreana](https://www.google.com/search?udm=2&q=Gorreana+Tea+Plantation)
-* [🔍 Voir les photos de : Piscines de Caloura](https://www.google.com/search?udm=2&q=Caloura+Azores)
+- ![Thé Gorreana](https://upload.wikimedia.org/wikipedia/commons/7/73/Cha_Gorreana_Tea_Plantation_Sao_Miguel_Azores_Portugal_Main_Plant.jpg)
+- ![Piscines de Caloura](https://upload.wikimedia.org/wikipedia/commons/9/9b/2012-10-14_14-11-03_Portugal_Azores_Caloura_7h.JPG)
