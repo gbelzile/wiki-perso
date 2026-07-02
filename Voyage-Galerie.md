@@ -5,56 +5,148 @@
 ## 🌿 SEMAINE 1 — MADÈRE
 
 ### 🗓️ 15 juillet — Arrivée & Ribeira Brava
-- ![Le village de Ribeira Brava](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBq3tVMheWWsy_J96XfruTJsFrVhzFehEMfWPYpRBuzQ&s=10)
-- ![Miradouro de São Sebastião](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOxYFclzaU1ZpybJtGj2ZiJk-WsRQiLqhDmxRTDscRg&s=10)
+<div align="center">
+
+![Le village de Ribeira Brava](https://source.unsplash.com/featured/900x600?madeira,ribeira-brava,coast)
+
+![Miradouro de São Sebastião](https://source.unsplash.com/featured/900x600?madeira,viewpoint,sunset)
+
+![Coucher de soleil à Ribeira Brava](https://source.unsplash.com/featured/900x600?madeira,coast,sunset)
+
+</div>
 
 ### 🗓️ 16 juillet — Bananes, Cascades & Plage de Calheta
-- ![Cascata dos Anjos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqr4evlzBQDNOZsz9oYMIpfehrqvZAcY93aKuOkT3mw&s=10)
-- ![Madalena do Mar (Bananes)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgFjkzZm4uTaMouMnIc8oysYLtgAwxXraS_fg2dE0CQ&s=10)
-- ![Plage de Calheta](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIyWLCq89KfjKs3Ojl24c3ABmgcKaDZpI3O0k6JL_7eQ&s=10)
+<div align="center">
+
+![Cascata dos Anjos](https://source.unsplash.com/featured/900x600?madeira,waterfall,forest)
+
+![Madalena do Mar (Bananes)](https://source.unsplash.com/featured/900x600?banana,plantation,madeira)
+
+![Plage de Calheta](https://source.unsplash.com/featured/900x600?madeira,beach,sea)
+
+</div>
 
 ### 🗓️ 17 juillet — Le Grand Trek des Sommets
-- ![Pico do Arieiro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg5c9_xYn6uK0G--PxclJ-1v4_zyvG_UsSj0Vy_77qA&s=10)
-- ![Sentier vers le Pico Ruivo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zlz12i_jjx0a5qThYaLsL5hoD3jnxWTtW2l-8RiNhQ&s=10)
+<div align="center">
+
+![Pico do Arieiro](https://source.unsplash.com/featured/900x600?madeira,pico-do-arieiro,clouds)
+
+![Sentier vers le Pico Ruivo](https://source.unsplash.com/featured/900x600?madeira,pico-ruivo,hike)
+
+![Vue sur les sommets](https://source.unsplash.com/featured/900x600?madeira,mountain,sky)
+
+</div>
 
 ### 🗓️ 18 juillet — L'Épopée du Nord-Ouest
-- ![Forêt mystique de Fanal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0_KOkeDuh_52eSSgCEXQhgN8JjLk9lHBPuwcRD9yUw&s=10)
-- ![Piscines de Porto Moniz](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01kzDJcRBK2Vul3HDsiZR1Ng2WLMFzcCtvQxui8MUjQ&s=10)
-- ![Plage de Seixal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIe-fqI07wbvflt0HJwIZBYF7jC8aYUXXV3QunMr9pQ&s=10)
+<div align="center">
+
+![Forêt mystique de Fanal](https://source.unsplash.com/featured/900x600?madeira,fanal,forest)
+
+![Piscines de Porto Moniz](https://source.unsplash.com/featured/900x600?porto-moniz,volcanic,pools)
+
+![Plage de Seixal](https://source.unsplash.com/featured/900x600?madeira,seixal,beach)
+
+</div>
 
 ### 🗓️ 19 juillet — Canyoning & Câmara de Lobos
-- ![Câmara de Lobos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcZXWU_XxWwQzLlpnDXPGPJAaFJqw9y71PZ4bs7yMv5g&s=10)
+<div align="center">
+
+![Canyon et cascades](https://source.unsplash.com/featured/900x600?canyoning,waterfall,adventure)
+
+![Session de canyoning](https://source.unsplash.com/featured/900x600?river,canyoning,jungle)
+
+![Câmara de Lobos](https://source.unsplash.com/featured/900x600?camara-de-lobos,madeira,harbor)
+
+</div>
 
 ### 🗓️ 20 juillet — Funchal : Marché & Sensations
-- ![Mercado dos Lavradores](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi3HlkiztvoH1WsaTIKjxodzx63AmfEbGbAP4i-bZhdQ&s=10)
-- ![Carreiros do Monte](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqz7f7ux25jCY9Bvl-XdF0s0PVKQd5zj_g2uRvES2yrw&s=10)
+<div align="center">
+
+![Mercado dos Lavradores](https://source.unsplash.com/featured/900x600?funchal,market,street)
+
+![Téléphérique & jardin](https://source.unsplash.com/featured/900x600?funchal,telecabine,garden)
+
+![Carreiros do Monte](https://source.unsplash.com/featured/900x600?carreiros-do-monte,madeira,funicular)
+
+</div>
 
 ### 🗓️ 21 juillet — Journée Grands Espaces
-- ![Ponta de São Lourenço](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48XedtrzZaj30kZLT76kIuHcErbi7F5jFP2_y27Q43Q&s=10)
+<div align="center">
+
+![Ponta de São Lourenço](https://source.unsplash.com/featured/900x600?madeira,ponta-de-sao-lourenco,cliff)
+
+![Falaises et mer](https://source.unsplash.com/featured/900x600?madeira,cliff,ocean)
+
+![Vue panoramique](https://source.unsplash.com/featured/900x600?madeira,coast,panorama)
+
+</div>
 
 ---
 
 ## 🌊 SEMAINE 2 — SÃO MIGUEL (AÇORES)
 
 ### 🗓️ 22 juillet — Arrivée & Surf à Santa Barbara
-- ![Santa Barbara Beach](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5iuWN9YzdUIkNhCLNj7lIv0RJvJijxpNpYqVjGG5iw&s=10)
+<div align="center">
+
+![Santa Barbara Beach](https://source.unsplash.com/featured/900x600?azores,santa-barbara,beach)
+
+![Surf au coucher de soleil](https://source.unsplash.com/featured/900x600?surf,azores,sunset)
+
+![Vue côtière](https://source.unsplash.com/featured/900x600?azores,coast,sea)
+
+</div>
 
 ### 🗓️ 23 juillet — Le Cratère Majeur de Sete Cidades
-- ![Miradouro Boca do Inferno](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1d7eE3mtJcX5NdP7xwoKcd-g59jWekgzpvv4ncue_LQ&s=10)
-- ![Vista do Rei (Sete Cidades)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfweePu5Sp94G7PChzKQKEk4T-63Zvm4Raz1NGBZRZqg&s=10)
-- ![Thermes de Ponta da Ferraria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomzWGnzGfxBWYqM3wRLZ9x4DKT_l_7al9IWsklWUKHA&s=10)
+<div align="center">
+
+![Miradouro Boca do Inferno](https://source.unsplash.com/featured/900x600?azores,boca-do-inferno,viewpoint)
+
+![Vista do Rei (Sete Cidades)](https://source.unsplash.com/featured/900x600?azores,vista-do-rei,lake)
+
+![Thermes de Ponta da Ferraria](https://source.unsplash.com/featured/900x600?azores,ponta-da-ferraria,hot-springs)
+
+</div>
 
 ### 🗓️ 24 juillet — Jungle, Bassins Chauds & Surf
-- ![Cascade Salto do Cabrito](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXoaXAomevcEuDvE81AbKJb9v_60BdINPbaB21ppNFg&s=10)
-- ![Caldeira Velha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5U9gbuTgcOuLhy5NfVMwCcBdh2Pz1HL_Uev8sPZckg&s=10)
+<div align="center">
+
+![Cascade Salto do Cabrito](https://source.unsplash.com/featured/900x600?azores,waterfall,jungle)
+
+![Caldeira Velha](https://source.unsplash.com/featured/900x600?azores,caldeira-velha,thermal)
+
+![Cours de surf](https://source.unsplash.com/featured/900x600?surf,azores,beach)
+
+</div>
 
 ### 🗓️ 25 juillet — Le Spectacle Géothermique de Furnas
-- ![Caldeiras de Furnas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5803vO2v2RKrA3dc8JwLopXAGl0kXyP38UUsAUTnjKQ&s=10)
-- ![Parc Terra Nostra](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGrwE8RvlAmAatW1hTu-ohP027x6W4_BXdP4yLxL6FQ&s=10)
+<div align="center">
 
-### 🗓️ 26 juillet — Lagoa do Fogo
-- ![Lagoa do Fogo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBIVhi8qYfJO3VBvpMyxYwd9_sQ8EkaBSnQ1xkQyF1A&s=10)
+![Caldeiras de Furnas](https://source.unsplash.com/featured/900x600?azores,furnas,geothermal)
+
+![Parc Terra Nostra](https://source.unsplash.com/featured/900x600?azores,terra-nostra,garden)
+
+![Bains thermaux](https://source.unsplash.com/featured/900x600?thermal,spa,nature)
+
+</div>
+
+### 🗓️ 26 juillet — Lagoa do Fogo & Croisière aux Baleines
+<div align="center">
+
+![Lagoa do Fogo](https://source.unsplash.com/featured/900x600?azores,lagoa-do-fogo,lake)
+
+![Croisière baleines & dauphins](https://source.unsplash.com/featured/900x600?whale,boat,ocean)
+
+![Baleines en mer](https://source.unsplash.com/featured/900x600?whales,sea,trip)
+
+</div>
 
 ### 🗓️ 27 juillet — Les Lignes de Thé & Dernier Plongeon
-- ![Thé Gorreana](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVx_bxK-iLB69FimdVdvwI7Uqz-0rTP6YGRiUVgzb-7g&s=10)
-- ![Piscines de Caloura](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0eY6iucImp6Nl4vO5Rgs3fjg7260wI7UuWF9rGkSdg&s=10)
+<div align="center">
+
+![Thé Gorreana](https://source.unsplash.com/featured/900x600?azores,gorreana,tea)
+
+![Piscines de Caloura](https://source.unsplash.com/featured/900x600?azores,caloura,pools)
+
+![Dernier plongeon](https://source.unsplash.com/featured/900x600?ocean,swimming,cliffs)
+
+</div>
