@@ -1,3 +1,6 @@
+---
+---
+
 # Madère & Açores — Juillet 2026
 
 ## 2026-07-15 — Arrivée / Installation
