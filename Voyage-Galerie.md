@@ -5,56 +5,56 @@
 ## 🌿 SEMAINE 1 — MADÈRE
 
 ### 🗓️ 15 juillet — Arrivée & Ribeira Brava
-- ![Le village de Ribeira Brava](https://picsum.photos/seed/ribeira-brava/1200/800)
-- ![Miradouro de São Sebastião](https://picsum.photos/seed/miradouro-sebastiao/1200/800)
+- ![Le village de Ribeira Brava](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBq3tVMheWWsy_J96XfruTJsFrVhzFehEMfWPYpRBuzQ&s=10)
+- ![Miradouro de São Sebastião](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOxYFclzaU1ZpybJtGj2ZiJk-WsRQiLqhDmxRTDscRg&s=10)
 
 ### 🗓️ 16 juillet — Bananes, Cascades & Plage de Calheta
-- ![Cascata dos Anjos](https://picsum.photos/seed/cascata-dos-anjos/1200/800)
-- ![Madalena do Mar (Bananes)](https://picsum.photos/seed/madalena-do-mar/1200/800)
-- ![Plage de Calheta](https://picsum.photos/seed/calheta/1200/800)
+- ![Cascata dos Anjos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqr4evlzBQDNOZsz9oYMIpfehrqvZAcY93aKuOkT3mw&s=10)
+- ![Madalena do Mar (Bananes)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgFjkzZm4uTaMouMnIc8oysYLtgAwxXraS_fg2dE0CQ&s=10)
+- ![Plage de Calheta](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIyWLCq89KfjKs3Ojl24c3ABmgcKaDZpI3O0k6JL_7eQ&s=10)
 
 ### 🗓️ 17 juillet — Le Grand Trek des Sommets
-- ![Pico do Arieiro](https://picsum.photos/seed/pico-do-arieiro/1200/800)
-- ![Sentier vers le Pico Ruivo](https://picsum.photos/seed/pico-ruivo/1200/800)
+- ![Pico do Arieiro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg5c9_xYn6uK0G--PxclJ-1v4_zyvG_UsSj0Vy_77qA&s=10)
+- ![Sentier vers le Pico Ruivo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zlz12i_jjx0a5qThYaLsL5hoD3jnxWTtW2l-8RiNhQ&s=10)
 
 ### 🗓️ 18 juillet — L'Épopée du Nord-Ouest
-- ![Forêt mystique de Fanal](https://picsum.photos/seed/fanal/1200/800)
-- ![Piscines de Porto Moniz](https://picsum.photos/seed/porto-moniz/1200/800)
-- ![Plage de Seixal](https://picsum.photos/seed/seixal/1200/800)
+- ![Forêt mystique de Fanal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0_KOkeDuh_52eSSgCEXQhgN8JjLk9lHBPuwcRD9yUw&s=10)
+- ![Piscines de Porto Moniz](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01kzDJcRBK2Vul3HDsiZR1Ng2WLMFzcCtvQxui8MUjQ&s=10)
+- ![Plage de Seixal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIe-fqI07wbvflt0HJwIZBYF7jC8aYUXXV3QunMr9pQ&s=10)
 
 ### 🗓️ 19 juillet — Canyoning & Câmara de Lobos
-- ![Câmara de Lobos](https://picsum.photos/seed/camara-de-lobos/1200/800)
+- ![Câmara de Lobos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcZXWU_XxWwQzLlpnDXPGPJAaFJqw9y71PZ4bs7yMv5g&s=10)
 
 ### 🗓️ 20 juillet — Funchal : Marché & Sensations
-- ![Mercado dos Lavradores](https://picsum.photos/seed/mercado-dos-lavradores/1200/800)
-- ![Carreiros do Monte](https://picsum.photos/seed/carreiros-do-monte/1200/800)
+- ![Mercado dos Lavradores](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi3HlkiztvoH1WsaTIKjxodzx63AmfEbGbAP4i-bZhdQ&s=10)
+- ![Carreiros do Monte](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqz7f7ux25jCY9Bvl-XdF0s0PVKQd5zj_g2uRvES2yrw&s=10)
 
 ### 🗓️ 21 juillet — Journée Grands Espaces
-- ![Ponta de São Lourenço](https://picsum.photos/seed/ponta-de-sao-lourenco/1200/800)
+- ![Ponta de São Lourenço](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48XedtrzZaj30kZLT76kIuHcErbi7F5jFP2_y27Q43Q&s=10)
 
 ---
 
 ## 🌊 SEMAINE 2 — SÃO MIGUEL (AÇORES)
 
 ### 🗓️ 22 juillet — Arrivée & Surf à Santa Barbara
-- ![Santa Barbara Beach](https://picsum.photos/seed/santa-barbara-beach/1200/800)
+- ![Santa Barbara Beach](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5iuWN9YzdUIkNhCLNj7lIv0RJvJijxpNpYqVjGG5iw&s=10)
 
 ### 🗓️ 23 juillet — Le Cratère Majeur de Sete Cidades
-- ![Miradouro Boca do Inferno](https://picsum.photos/seed/boca-do-inferno/1200/800)
-- ![Vista do Rei (Sete Cidades)](https://picsum.photos/seed/vista-do-rei/1200/800)
-- ![Thermes de Ponta da Ferraria](https://picsum.photos/seed/ponta-da-ferraria/1200/800)
+- ![Miradouro Boca do Inferno](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1d7eE3mtJcX5NdP7xwoKcd-g59jWekgzpvv4ncue_LQ&s=10)
+- ![Vista do Rei (Sete Cidades)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfweePu5Sp94G7PChzKQKEk4T-63Zvm4Raz1NGBZRZqg&s=10)
+- ![Thermes de Ponta da Ferraria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomzWGnzGfxBWYqM3wRLZ9x4DKT_l_7al9IWsklWUKHA&s=10)
 
 ### 🗓️ 24 juillet — Jungle, Bassins Chauds & Surf
-- ![Cascade Salto do Cabrito](https://picsum.photos/seed/salto-do-cabrito/1200/800)
-- ![Caldeira Velha](https://picsum.photos/seed/caldeira-velha/1200/800)
+- ![Cascade Salto do Cabrito](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXoaXAomevcEuDvE81AbKJb9v_60BdINPbaB21ppNFg&s=10)
+- ![Caldeira Velha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5U9gbuTgcOuLhy5NfVMwCcBdh2Pz1HL_Uev8sPZckg&s=10)
 
 ### 🗓️ 25 juillet — Le Spectacle Géothermique de Furnas
-- ![Caldeiras de Furnas](https://picsum.photos/seed/caldeiras-de-furnas/1200/800)
-- ![Parc Terra Nostra](https://picsum.photos/seed/terra-nostra/1200/800)
+- ![Caldeiras de Furnas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5803vO2v2RKrA3dc8JwLopXAGl0kXyP38UUsAUTnjKQ&s=10)
+- ![Parc Terra Nostra](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGrwE8RvlAmAatW1hTu-ohP027x6W4_BXdP4yLxL6FQ&s=10)
 
 ### 🗓️ 26 juillet — Lagoa do Fogo
-- ![Lagoa do Fogo](https://picsum.photos/seed/lagoa-do-fogo/1200/800)
+- ![Lagoa do Fogo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBIVhi8qYfJO3VBvpMyxYwd9_sQ8EkaBSnQ1xkQyF1A&s=10)
 
 ### 🗓️ 27 juillet — Les Lignes de Thé & Dernier Plongeon
-- ![Thé Gorreana](https://picsum.photos/seed/gorreana/1200/800)
-- ![Piscines de Caloura](https://picsum.photos/seed/caloura/1200/800)
+- ![Thé Gorreana](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVx_bxK-iLB69FimdVdvwI7Uqz-0rTP6YGRiUVgzb-7g&s=10)
+- ![Piscines de Caloura](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0eY6iucImp6Nl4vO5Rgs3fjg7260wI7UuWF9rGkSdg&s=10)
